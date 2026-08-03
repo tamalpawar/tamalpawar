@@ -61,10 +61,7 @@ My  interests include Data Science, Bioinformatics, Clinical Trial Analytics, an
 
 ## 📫 Connect
 
-LinkedIn (Coming Soon)
-
-Portfolio (Coming Soon)
-
+LinkedIn: https://www.linkedin.com/in/tamalkrishnapawar
 Email: tamalkrishna2006@gmail.com
 
 > Exploring the intersection of data, biology, and healthcare.
