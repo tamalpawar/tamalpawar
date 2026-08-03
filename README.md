@@ -42,6 +42,12 @@ My  interests include Data Science, Bioinformatics, Clinical Trial Analytics, an
 
 🧬 Clinical Trials & Precision Oncology Analytics
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tamalpawar&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamalpawar&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ## 🔬 Research Interests
 
