@@ -41,6 +41,7 @@ My  interests include Data Science, Bioinformatics, Clinical Trial Analytics, an
 ## 🚀 Featured Projects
 
 🧬 Clinical Trials & Precision Oncology Analytics
+🎗  Breast Cancer Prediction
 
 ## 📊 GitHub Stats
 
