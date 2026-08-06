@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tamalpawar/tamalpawar/main/banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Tamalkrishna Pawar</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
