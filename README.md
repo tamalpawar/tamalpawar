@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Tamalkrishna Pawar</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=50C878&center=true&vCenter=true&width=650&lines=Building+with+Python;Exploring+Bioinformatics;Clinical+Trial+Analytics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=50C878&center=true&vCenter=true&width=650&lines=Data+Science+Enthusiast;Exploring+Bioinformatics;Clinical+Trial+Analytics" alt="Typing SVG" />
   </a>
 </p>
 </p>
