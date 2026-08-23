@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-Data Science | Bioinformatics | Precision Medicine
+Data Science | Bioinformatics | Heathcare Analytics
 </h3>
 
 <p align="center">
