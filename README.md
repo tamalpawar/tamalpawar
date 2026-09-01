@@ -3,31 +3,31 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Tamalkrishna Pawar</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=50C878&center=true&vCenter=true&width=650&lines=Data+Science+Enthusiast;Exploring+Bioinformatics;Clinical+Trial+Analytics" alt="Typing SVG" />
   </a>
 </p>
-</p>
 
 <h3 align="center">
-Data Science | Bioinformatics | Heathcare Analytics
+Data Science | Bioinformatics | Healthcare Analytics
 </h3>
 
 <p align="center">
-Building data-driven solutions for healthcare and life sciences.
+Exploring data-driven solutions for healthcare and life sciences.
 </p>
 
 ## 🧬 About Me
 
-I'm passionate about applying data science to healthcare and life science problems.
+I'm passionate about using data science to explore problems in healthcare and life sciences.
 
-My  interests include Data Science, Bioinformatics, Clinical Trial Analytics, and Precision Medicine. I'm building practical projects using Python, SQL, Machine Learning, and data visualization while continuously exploring how data can improve healthcare research.
+My interests include Healthcare Analytics, Bioinformatics, Clinical Trial Analytics, and Precision Medicine. I'm building practical projects using Python, SQL, machine learning, and data visualization while exploring how data can support healthcare research and decision-making.
 
 ## 🎯 Current Focus
 
 - 🧬 Bioinformatics
-- 📊 Clinical Trial Analytics
+- 📊 Healthcare & Clinical Trial Analytics
 - 🎗 Precision Medicine
 - 🤖 Machine Learning
 - 🐍 Python & SQL
@@ -47,12 +47,11 @@ My  interests include Data Science, Bioinformatics, Clinical Trial Analytics, an
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-
 ## 🚀 Featured Projects
 
 🧬 Clinical Trials & Precision Oncology Analytics
 
-🎗  Breast Cancer Prediction
+🎗 Breast Cancer Prediction
 
 ## 📊 GitHub Stats
 
@@ -70,9 +69,6 @@ My  interests include Data Science, Bioinformatics, Clinical Trial Analytics, an
 - 🤖 Machine Learning
 - 🧬 Genomics
 
-
-## 📫 Connect
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -88,6 +84,5 @@ My  interests include Data Science, Bioinformatics, Clinical Trial Analytics, an
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
 
 > Exploring the intersection of data, biology, and healthcare.
